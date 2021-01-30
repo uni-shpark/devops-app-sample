@@ -1,3 +1,13 @@
-<h1> Hello, My name is Muhammad Asim !!   </h1>
-<h2> I am working as DevOps</h2>
-<h2>  saqlainmushtaq.com & saqlainmushtaq.com.pk </h2>
+<<<<<<< HEAD
+  
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<h1> ¾È³çÇÏ¼¼¿ä. ¹Ú¼öÇüÀÔ´Ï´Ù!! </h1>
+=======
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<h1> ì•ˆë…•í•˜ì„¸ìš”. ë°•ìˆ˜í˜•ìž…ë‹ˆë‹¤!! </h1>
+
+>>>>>>> 678ebadf8ab02bcd8d9d284a30c77d66f9a07656
